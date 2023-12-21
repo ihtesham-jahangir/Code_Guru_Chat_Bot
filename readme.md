@@ -1,6 +1,5 @@
 # Code GURU Chatbot
 
-![Code GURU Logo]
 
 ## Overview
 
